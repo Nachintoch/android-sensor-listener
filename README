@@ -1,0 +1,25 @@
+Biblioteca para manejo de sensores
+
+----------------------------- Versión 1.0 --------------------------------------
+
+Manuel "Nachintoch" Castillo
+
+Este proyecto es una biblioteca que abstrae la implementación y uso de las
+interfaces en Android para solicitar un sensor y su uso. Lo anterior, bajo los
+estádares establecidos para el API 10 de Android (Gingerbread - Android 2.3.3)
+
+Se recomienda usar más como un ejemplo que dentro de una aplicación de usuario
+final, ya que puede requerir mejorar y adecuaciones para las versiones más
+recientes de Android.
+
+El proyecto fue hecho con el IDE Eclipse.
+
+------------------- CONTENIDO DEL REPOSITORIO ----------------------------------
+* La carpeta "libs" contiene las bibliotecas que usa para compatibilidad con
+versiones anteriore de Android.
+* La carpeta "res" contiene los recursos gráficos de la aplicación y otros
+recursos. Se converva para evitar problemas al abrirse el proyecto en un IDE.
+* La carpeta "src" contiene el código fuente de la biblioteca.
+
+------------- DISPOSITIVOS DONDE HA SIDO SATISFACTORIAMENTE PROBADO ----------
+Samsung GT-S5830M (Smartphone), OS: Android Gingerbread (2.3.3)
